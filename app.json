@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_ALYA",
+        "value": "Yaki_the_plug",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_ALYA"
+        "value": "Yaki_sama"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -80,7 +80,7 @@
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
         "required": false,
-        "value": "true"
+        "value": "false"
       },
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348100835767"
+        "value": "2348138361189"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -111,11 +111,11 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
+        "value": "private"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_ALYA",
+        "value": "Yakisama",
         "required": false
       },
       "PACK_AUTHER": {
